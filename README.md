@@ -74,11 +74,11 @@ export class Info {
 </div>
 <br>
 
-<br>
 <!-- FOOTER -->
+<!--<br>
 <p align="center" style="margin-top: 20px;">
     <img align="center" 
             src=".github/luffy.gif"
             alt="Gabriel Amorim Linkedin"
             style="margin-top: 10px;"/>
-</p>
+</p>-->
