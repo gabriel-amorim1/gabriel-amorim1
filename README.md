@@ -17,7 +17,6 @@ export class Info {
 
 ```
 
-<div style="display: flex; align-items: center; justify-content: center;">
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=gabriel-amorim1&show_icons=true"
         alt="gabriel-amorim1" />
@@ -54,8 +53,6 @@ export class Info {
         height="40" 
         width="40" />
 </p>
-</div>
-
 <br>
 
 <!-- MOTIVATIONAL PHRASE -->
