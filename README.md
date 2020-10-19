@@ -79,7 +79,7 @@ export class Info {
 
 <!-- FOOTER -->
 <p align="center" style="margin-top: 20px;">
-    "That's all folks!"<br><br>
+    "That's all folks!"<br>
     <img align="center" 
             src=".github/luffy.gif"
             alt="Gabriel Amorim Linkedin"
