@@ -5,10 +5,13 @@
 <!-- ABOUT OF ME -->
 ```ts
 export class Info { 
-    string = 'Gabriel Amorim'
+    name: string = 'Gabriel Amorim'
     age: number = 19
-    nationality: string[] = ['Brazilian']
-    school: string = 'Centro Universitário Una'
+    nationality: string = 'Brazilian'
+    educational_background: Array<{
+        'Cursando Sistemas de Informação - Centro Universitário Una',
+        'Técnico em informática - CEFET-MG'
+    }>
     occupation: string = 'Back-end Developer on Seidor Brasil and Student'
 }
 ```
