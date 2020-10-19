@@ -1,5 +1,5 @@
 <p align="center" style="text-align: center;">
-<h1> Welcome to my GitHub profile 👋 </h1>
+    <h1> Welcome to my GitHub profile 👋 </h1>
 </p>
 
 <!-- ABOUT OF ME -->
@@ -35,30 +35,41 @@ export class Info {
     <br>
     <img align="center"
         src=".github/html.svg"
-        alt="HTML" height="40" width="40" />
+        alt="HTML" 
+        height="40" 
+        width="40" />
     <img align="center"
         src=".github/css.svg"
-        alt="CSS" height="40" width="40" />
+        alt="CSS" 
+        height="40" 
+        width="40" />
     <img align="center"
         src=".github/js.svg"
-        alt="JavaScript" height="40" width="40" />
+        alt="JavaScript" 
+        height="40" 
+        width="40" />
     <img align="center"
         src=".github/node.svg"
-        alt="Node.js" height="40" width="40" />
+        alt="Node.js" 
+        height="40" 
+        width="40" />
     <img align="center"
         src=".github/react.svg"
-        alt="React" height="40" width="40" />
-
-
-
+        alt="React" 
+        height="40" 
+        width="40" />
 </p>
 <br>
+
 <!-- FOOTER -->
 <p align="center">
     "That's all folks!"
     <br>
     <a href="https://www.linkedin.com/in/gabriel-amorim-b51a5a1a6/" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
-            alt="Gabriel Amorim Linkedin" height="20" width="20" />
+        <img align="center" 
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
+            alt="Gabriel Amorim Linkedin" 
+            height="20" 
+            width="20" />
     </a>
 </p>
