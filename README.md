@@ -1,34 +1,20 @@
-<p align="center">
-    <br><br>
-    <samp>
-        ✌🏼 <p style="text-align: center;">
-            My name is Gabriel Amorim and I'm 19 years old,
-            <br>
-            work on
-            <a href="https://www.linkedin.com/company/seidor-brasil/"> Seidor Brasil</a>
-            as back-end developer, using node.js and typescript.
-            <br>
-        </p> 👇🏼
-    </samp>
-</p>
+
 
 <!-- ABOUT OF ME -->
-
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=gabriel-amorim1&show_icons=true"
-        alt="gabriel-amorim1" />
-</p>
-
 <pre>
 export class Info { 
     string = 'Gabriel Amorim'
     age: number = 19
     nationality: string[] = ['Brazilian']
     school: string = 'Centro Universitário Una'
-    occupation: string = 'Back-end Developer and Student'
+    occupation: string = 'Back-end Developer on <a href="https://www.linkedin.com/company/seidor-brasil/"> Seidor Brasil</a> and Student'
 }
 </pre>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=gabriel-amorim1&show_icons=true"
+        alt="gabriel-amorim1" />
+</p>
 
 <!-- MOTIVATIONAL PHRASE -->
 <br>
