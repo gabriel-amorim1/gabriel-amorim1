@@ -7,7 +7,7 @@ export class Info {
     age: number = 19
     nationality: string[] = ['Brazilian']
     school: string = 'Centro Universitário Una'
-    occupation: string = 'Back-end Developer on <a href="https://www.linkedin.com/company/seidor-brasil/"> Seidor Brasil</a> and Student'
+    occupation: string = 'Back-end Developer on Seidor Brasil and Student'
 }
 ```
 
