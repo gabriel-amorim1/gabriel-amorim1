@@ -9,8 +9,8 @@ export class Info {
     age: number = 19
     nationality: string = 'Brazilian'
     educational_background: Array<{
-        'Cursando Sistemas de Informação - Centro Universitário Una',
-        'Técnico em informática - CEFET-MG'
+        'Information Systems - Una University Center ...in progress',
+        'IT Technician - CEFET-MG'
     }>
     occupation: string = 'Back-end Developer on Seidor Brasil and Student'
 }
