@@ -22,13 +22,6 @@ export class Info {
         alt="gabriel-amorim1" />
 </p>
 
-<!-- MOTIVATIONAL PHRASE -->
-<br>
-<p align="center">
-    "Talent you naturally have, <br>skill only develops with hours and hours hitting your capacity."
-</p>
-<br>
-
 <!-- Skills -->
 <p align="center" style="">
     <span style="padding-bottom: 10px;">Skills</span>
@@ -59,6 +52,11 @@ export class Info {
         height="40" 
         width="40" />
 </p>
+<!-- MOTIVATIONAL PHRASE -->
+<br>
+<p align="center">
+    "Talent you naturally have, <br>skill only develops with hours and hours hitting your capacity."
+</p>
 <br>
 
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
@@ -73,10 +71,9 @@ export class Info {
     </a>
 </div>
 
-
+<br>
 <!-- FOOTER -->
 <p align="center" style="margin-top: 20px;">
-    "That's all folks!"<br>
     <img align="center" 
             src=".github/luffy.gif"
             alt="Gabriel Amorim Linkedin"
