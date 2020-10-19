@@ -33,6 +33,7 @@ export class Info {
 <p align="center" style="">
     <span style="padding-bottom: 10px;">Skills</span>
     <br>
+    <br>
     <img align="center"
         src=".github/html.svg"
         alt="HTML" 
@@ -60,6 +61,7 @@ export class Info {
         width="40" />
 </p>
 <br>
+<br>
 
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
     <span style="padding-right: 5px;">Social Media:</span> 
@@ -72,11 +74,12 @@ export class Info {
             style="border-radius: 50px;" />
     </a>
 </div>
+<br>
 
 
 <!-- FOOTER -->
 <p align="center" style="margin-top: 20px;">
-    "That's all folks!"<br>
+    "That's all folks!"<br><br>
     <img align="center" 
             src=".github/luffy.gif"
             alt="Gabriel Amorim Linkedin"
