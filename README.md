@@ -8,10 +8,10 @@ export class Info {
     name: string = 'Gabriel Amorim'
     age: number = 19
     nationality: string = 'Brazilian'
-    educational_background: Array<{
+    educational_background: Array<string> = [
         'Information Systems - Una University Center ...in progress',
-        'IT Technician - CEFET-MG'
-    }>
+        'IT Technician - CEFET-MG',
+    ]
     occupation: string = 'Back-end Developer on Seidor Brasil and Student'
 }
 ```
