@@ -9,7 +9,7 @@ export class Info {
     school: string = 'Centro Universitário Una'
     occupation: string = 'Back-end Developer on <a href="https://www.linkedin.com/company/seidor-brasil/"> Seidor Brasil</a> and Student'
 }
-´´´
+```
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=gabriel-amorim1&show_icons=true"
