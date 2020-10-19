@@ -33,19 +33,19 @@ export class Info {
     <h2>Skills</h2>
     <br>
     <img align="center"
-        src="https://camo.githubusercontent.com/3a395763e6a6cb78e6b75220413660d371e5af39/68747470733a2f2f73766773686172652e636f6d2f692f4e51692e737667"
+        src=".github/html.svg"
         alt="HTML" height="40" width="40" />
     <img align="center"
-        src="https://camo.githubusercontent.com/cbca25be395576dda3497f949adb88cf8535f4dd/68747470733a2f2f73766773686172652e636f6d2f692f4e51742e737667"
+        src=".github/css.svg"
         alt="CSS" height="40" width="40" />
     <img align="center"
-        src="https://camo.githubusercontent.com/99e7a862b09aca92385eb902d8261335ada00b1b/68747470733a2f2f73766773686172652e636f6d2f692f4e516a2e737667"
+        src=".github/js.svg"
         alt="JavaScript" height="40" width="40" />
     <img align="center"
-        src="https://camo.githubusercontent.com/2dc26ffcb4ed7cbc4c881f0a7df178b9dcf29467/68747470733a2f2f73766773686172652e636f6d2f692f4e53522e737667"
+        src=".github/node.svg"
         alt="Node.js" height="40" width="40" />
     <img align="center"
-        src="https://camo.githubusercontent.com/af1b084a159628bab7ec2d917612a129a35e4a8f/68747470733a2f2f73766773686172652e636f6d2f692f4e51752e737667"
+        src=".github/react.svg"
         alt="React" height="40" width="40" />
 
 
