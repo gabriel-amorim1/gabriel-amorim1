@@ -30,8 +30,8 @@ export class Info {
 <br>
 
 <!-- Skills -->
-<p align="center">
-    Skills
+<p align="center" style="">
+    <span style="padding-bottom: 10px;">Skills</span>
     <br>
     <img align="center"
         src=".github/html.svg"
@@ -61,15 +61,24 @@ export class Info {
 </p>
 <br>
 
-<!-- FOOTER -->
-<p align="center">
-    "That's all folks!"
-    <br>
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+    <span style="padding-right: 5px;">Social Media:</span> 
     <a href="https://www.linkedin.com/in/gabriel-amorim-b51a5a1a6/" target="blank">
         <img align="center" 
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
             alt="Gabriel Amorim Linkedin" 
-            height="20" 
-            width="20" />
+            height="30" 
+            width="30"
+            style="border-radius: 50px;" />
     </a>
+</div>
+
+
+<!-- FOOTER -->
+<p align="center" style="margin-top: 20px;">
+    "That's all folks!"<br>
+    <img align="center" 
+            src=".github/luffy.gif"
+            alt="Gabriel Amorim Linkedin"
+            style="margin-top: 10px;"/>
 </p>
