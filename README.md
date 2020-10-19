@@ -1,18 +1,3 @@
-<style>
-    p.info-content {
-        list-style: none;
-        display: flex;
-        flex-wrap: wrap;
-        align-content: flex-start;
-        align-items: flex-start;
-    }
-
-    p.info-content span {
-        margin-left: 5px;
-    }
-</style>
-
-
 <p align="center">
     <br><br>
     <samp>
