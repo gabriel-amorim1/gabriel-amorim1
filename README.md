@@ -6,6 +6,11 @@
 
 </p>
 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=gabriel-amorim1&show_icons=true"
+        alt="gabriel-amorim1" />
+</p>
+
 <pre>
 export class Info { 
     string = 'Gabriel Amorim'
@@ -15,11 +20,6 @@ export class Info {
     occupation: string = 'Back-end Developer and Student'
 }
 </pre>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=gabriel-amorim1&show_icons=true"
-        alt="gabriel-amorim1" />
-</p>
 
 <!-- ABOUT OF ME -->
 <p align="center" style="text-align: center;">
