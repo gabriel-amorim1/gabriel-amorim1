@@ -30,7 +30,7 @@ export class Info {
 
 <!-- Skills -->
 <p align="center">
-    <h2>Skills</h2>
+    Skills
     <br>
     <img align="center"
         src=".github/html.svg"
