@@ -1,4 +1,6 @@
+<p align="center">
 ### Welcome to my GitHub profile 👋
+</p>
 
 <!-- ABOUT OF ME -->
 ```ts
