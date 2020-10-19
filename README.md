@@ -1,20 +1,19 @@
 <p align="center">
     <br><br>
     <samp>
-        ✌🏼 This is my Developer profile! 👇🏼
+        ✌🏼 <p style="text-align: center;">
+            My name is Gabriel Amorim and I'm 19 years old,
+            <br>
+            work on
+            <a href="https://www.linkedin.com/company/seidor-brasil/"> Seidor Brasil</a>
+            as back-end developer, using node.js and typescript.
+            <br>
+        </p> 👇🏼
     </samp>
-
 </p>
 
 <!-- ABOUT OF ME -->
-<p align="center" style="text-align: center;">
-    My name is Gabriel Amorim and I'm 19 years old,
-    <br>
-    work on
-    <a href="https://www.linkedin.com/company/seidor-brasil/"> Seidor Brasil</a>
-    as back-end developer, using node.js and typescript.
-    <br>
-</p>
+
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=gabriel-amorim1&show_icons=true"
