@@ -19,7 +19,7 @@ export class Info {
 
 <div style="display: flex; align-items: center; justify-content: center;">
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=gabriel-amorim1&show_icons=true&theme=dark"
+    <img src="https://github-readme-stats.vercel.app/api?username=gabriel-amorim1&show_icons=true"
         alt="gabriel-amorim1" />
 </p>
 
