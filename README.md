@@ -30,7 +30,7 @@ export class Info {
 
 <!-- Skills -->
 <p align="center">
-    <h2>Skills</h2>
+    Skills
     <br>
     <img align="center"
         src="https://camo.githubusercontent.com/3a395763e6a6cb78e6b75220413660d371e5af39/68747470733a2f2f73766773686172652e636f6d2f692f4e51692e737667"
