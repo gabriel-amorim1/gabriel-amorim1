@@ -14,6 +14,7 @@ export class Info {
     ];
     occupation: string = 'Back-end Developer on Seidor Brasil and Student';
 }
+
 ```
 
 <p align="center">
