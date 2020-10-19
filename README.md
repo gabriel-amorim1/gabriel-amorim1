@@ -26,6 +26,7 @@ export class Info {
 <p align="center" style="">
     <span style="padding-bottom: 10px;">Skills</span>
     <br>
+    <br>
     <img align="center"
         src=".github/html.svg"
         alt="HTML" 
@@ -58,6 +59,7 @@ export class Info {
     "Talent you naturally have, <br>skill only develops with hours and hours hitting your capacity."
 </p>
 <br>
+<br>
 
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
     <span style="padding-right: 5px;">Social Media:</span> 
@@ -70,6 +72,7 @@ export class Info {
             style="border-radius: 50px;" />
     </a>
 </div>
+<br>
 
 <br>
 <!-- FOOTER -->
