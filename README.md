@@ -2,13 +2,13 @@
 
 <!-- ABOUT OF ME -->
 <pre>
-´´´export class Info { 
+export class Info { 
     string = 'Gabriel Amorim'
     age: number = 19
     nationality: string[] = ['Brazilian']
     school: string = 'Centro Universitário Una'
     occupation: string = 'Back-end Developer on <a href="https://www.linkedin.com/company/seidor-brasil/"> Seidor Brasil</a> and Student'
-}´´´
+}
 </pre>
 
 <p align="center">
