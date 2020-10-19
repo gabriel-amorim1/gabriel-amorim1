@@ -17,13 +17,14 @@ export class Info {
 
 ```
 
+<div style="display: flex; align-items: center; justify-content: center;">
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=gabriel-amorim1&show_icons=true"
+    <img src="https://github-readme-stats.vercel.app/api?username=gabriel-amorim1&show_icons=true&theme=dark"
         alt="gabriel-amorim1" />
 </p>
 
 <!-- Skills -->
-<p align="center" style="">
+<p align="center" style="padding-left: 10px;">
     <span style="padding-bottom: 10px;">Skills: </span>
     <br>
     <br>
@@ -53,6 +54,8 @@ export class Info {
         height="40" 
         width="40" />
 </p>
+</div>
+
 <br>
 
 <!-- MOTIVATIONAL PHRASE -->
