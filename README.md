@@ -29,7 +29,7 @@
 <!-- MOTIVATIONAL PHRASE -->
 <br>
 <p align="center">
-    "Talent you naturally have, skill only develops with hours and hours hitting your capacity."
+    "Talent you naturally have, <br>skill only develops with hours and hours hitting your capacity."
 </p>
 <br>
 
