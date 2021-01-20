@@ -57,7 +57,7 @@ export class Info {
 
 <!-- MOTIVATIONAL PHRASE -->
 <p align="center">
-    "Talent you naturally have, <br>skill only develops with hours and hours hitting your capacity."
+    "Talent you have naturally. <br>Skill is only developed by hours and hours and hours of beating on your craft." <br> - Will Smith
 </p>
 <br>
 
