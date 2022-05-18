@@ -12,7 +12,7 @@ export class Info {
         'Information Systems - Una University Center ...in progress',
         'IT Technician - CEFET-MG',
     ];
-    occupation: string = 'NodeJS Developer at Reply and Student';
+    occupation: string = 'NodeJS Developer at Nomad and Student';
 }
 
 ```
