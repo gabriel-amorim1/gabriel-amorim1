@@ -69,6 +69,10 @@ export class Info {
 </div>
 <br>
 
+<!-- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="gabriel-amorim-b51a5a1a6" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/gabriel-amorim-b51a5a1a6?trk=profile-badge">Gabriel Amorim</a></div> -->
+              
+
 <!-- FOOTER -->
 <!--<br>
 <p align="center" style="margin-top: 20px;">
