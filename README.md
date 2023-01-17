@@ -17,11 +17,11 @@ export class Info {
 
 ```
 
-<div align="center" style="padding-bottom: 30px;">
+<!-- <div align="center" style="padding-bottom: 30px;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-amorim1&show_icons=true&theme=dracula&include_all_commits=true"
         alt="gabriel-amorim1" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-amorim1&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div> -->
 
 <!-- Skills -->
 <p align="center" style="padding-left: 10px;">
