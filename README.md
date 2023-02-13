@@ -6,7 +6,7 @@
 ```ts
 export class Info { 
     name: string = 'Gabriel Amorim';
-    age: number = 21;
+    age: number = 22;
     nationality: string = 'Brazilian';
     educational_background: Array<string> = [
         'Information Systems - Una University Center ...in progress',
