@@ -9,10 +9,10 @@ export class Info {
     age: number = 23;
     nationality: string = 'Brazilian';
     educational_background: Array<string> = [
-        'Information Systems - Una University Center ...in progress',
+        'Information Systems - Una University Center',
         'IT Technician - CEFET-MG',
     ];
-    occupation: string = 'NodeJS Developer at Nomad and Student';
+    occupation: string = 'NodeJS Developer at Nomad';
 }
 
 ```
