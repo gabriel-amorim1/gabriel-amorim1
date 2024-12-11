@@ -12,7 +12,6 @@ export class Info {
         'Information Systems - Una University Center',
         'IT Technician - CEFET-MG',
     ];
-    occupation: string = 'NodeJS Developer at Nomad';
 }
 
 ```
